@@ -27,9 +27,6 @@ items:
       name: catalog-coolstore
       weight: 100
     wildcardPolicy: None
-  status:
-    ingress:
-    - conditions:
 kind: List
 metadata:
   resourceVersion: ""
